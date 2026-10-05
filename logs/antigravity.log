@@ -1,0 +1,134 @@
+[1593:1005/005047.128592:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+
+DevTools listening on ws://127.0.0.1:9500/devtools/browser/80e006a7-bc59-4613-b707-691dd0344581
+[1593:1005/005047.175867:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1593:1005/005047.176118:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1593:1005/005047.180171:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+00:50:47.271 › [IDE Wizard] /config/.gemini/antigravity not found — user was not migrated, skipping.
+00:50:47.275 › Starting app (v2.3.1) with dynamic port…
+00:50:47.276 › 
+Spawning: /opt/antigravity/Antigravity-x64/resources/bin/language_server --standalone --override_ide_name antigravity --subclient_type hub --override_ide_version 2.3.1 --override_user_agent_name antigravity --https_server_port 0 --csrf_token 6efef010-fe16-420a-a7ef-9e1ef0b37a94 --app_data_dir antigravity --api_server_url https://generativelanguage.googleapis.com --cloud_code_endpoint https://daily-cloudcode-pa.googleapis.com --enable_sidecars
+
+00:50:47.421 › [Auto-Restart] Port changed! Reloading all windows with URL: https://127.0.0.1:45717/
+00:50:47.422 › 
+============================================================
+00:50:47.422 ›   Local:       https://127.0.0.1:45717/
+00:50:47.422 ›   LS Logs:     /config/.config/Antigravity/logs/language_server.log
+00:50:47.422 ›   Electron Logs: /config/.config/Antigravity/logs/main.log
+00:50:47.422 › ============================================================
+
+[1593:1005/005047.449497:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1593:1005/005047.469076:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+00:50:57.473 › [AutoUpdater] Starting auto update checks
+00:50:57.474 › APPIMAGE env is not defined, current application is not an AppImage
+[2578:1005/005134.703957:ERROR:services/video_capture/video_capture_service_impl.cc:201] Bind context provider failed.
+WARNING: Glycin running without sandbox.
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.807: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.838: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.855: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.873: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.889: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.905: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.918: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.934: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.951: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.968: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.985: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:05.996: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.014: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.030: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.047: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.064: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.081: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.098: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.115: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:06.132: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.610: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.632: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.648: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.664: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.682: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.697: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.714: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.731: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.747: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.759: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.776: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.792: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.809: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.826: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.842: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:08.859: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:10.683: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:10.700: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:10.717: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:10.910: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(antigravity:1593): dconf-WARNING **: 00:52:10.910: failed to commit changes to dconf: Unknown or unsupported transport “disabled” for address “disabled:”
+01:50:57.485 › APPIMAGE env is not defined, current application is not an AppImage
+02:50:57.495 › APPIMAGE env is not defined, current application is not an AppImage
+03:50:57.505 › APPIMAGE env is not defined, current application is not an AppImage
+04:50:57.515 › APPIMAGE env is not defined, current application is not an AppImage
+05:50:57.526 › APPIMAGE env is not defined, current application is not an AppImage
+06:50:57.595 › APPIMAGE env is not defined, current application is not an AppImage
+07:50:57.633 › APPIMAGE env is not defined, current application is not an AppImage
+08:50:57.638 › APPIMAGE env is not defined, current application is not an AppImage
+09:50:57.739 › APPIMAGE env is not defined, current application is not an AppImage
+10:50:57.802 › APPIMAGE env is not defined, current application is not an AppImage
+11:50:57.902 › APPIMAGE env is not defined, current application is not an AppImage
+[166595:1005/122731.733413:ERROR:services/video_capture/video_capture_service_impl.cc:201] Bind context provider failed.
+
+(antigravity:1593): libnotify-WARNING **: 12:34:31.573: Failed to connect to proxy
+
+(antigravity:1593): libnotify-WARNING **: 12:34:31.573: Failed to connect to proxy
+
+(antigravity:1593): libnotify-WARNING **: 12:34:31.573: Failed to connect to proxy
+[1593:1005/123431.573882:ERROR:electron/shell/browser/notifications/linux/libnotify_notification.cc:54] notify_notification_show: domain=753 code=13 message="Unknown or unsupported transport “disabled” for address “disabled:”"
+
+(antigravity:1593): libnotify-WARNING **: 12:39:54.565: Failed to connect to proxy
+
+(antigravity:1593): libnotify-WARNING **: 12:39:54.565: Failed to connect to proxy
+
+(antigravity:1593): libnotify-WARNING **: 12:39:54.565: Failed to connect to proxy
+[1593:1005/123954.565404:ERROR:electron/shell/browser/notifications/linux/libnotify_notification.cc:54] notify_notification_show: domain=753 code=13 message="Unknown or unsupported transport “disabled” for address “disabled:”"
+12:50:57.912 › APPIMAGE env is not defined, current application is not an AppImage

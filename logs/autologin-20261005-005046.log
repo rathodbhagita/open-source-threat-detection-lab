@@ -1,0 +1,55 @@
+00:50:46  INFO    log file: /config/automata/logs/autologin-20261005-005046.log
+00:50:46  INFO    account: student-00-831bfbfd3f07@qwiklabs.net   project: qwiklabs-gcp-02-c3815fd3527c
+00:50:46  INFO    attempt 1: devtools ports app=9500 chrome=9501
+00:50:46  INFO    launching Antigravity (scale=1.35) (devtools :9500)
+00:50:54  INFO    UI ready: onboarding
+00:50:54  INFO    Antigravity UI at https://127.0.0.1:45717/onboarding (onboarding)
+00:50:55  INFO    selecting Google Cloud / Business account flow
+00:50:56  INFO    waiting for the OAuth URL
+00:50:57  INFO    OAuth URL captured (646 chars)
+00:50:57  INFO    launching Chrome for sign-in (devtools :9501)
+00:50:58  INFO    handling Google sign-in / account chooser
+00:51:00  INFO    entering email
+00:51:00  INFO      email submit: clicked #identifierNext button
+00:51:02  INFO    entering password
+00:51:02  INFO      password submit: clicked #passwordNext button
+00:51:06  INFO    clearing consent / profile dialogs
+00:51:08  INFO      re-entering password on consent step
+00:51:09  INFO      password submit: clicked #passwordNext button
+00:51:10  INFO      consent: clicked i understand
+00:51:10  DEBUG   consent poll error: Handshake status 500 Internal Server Error -+-+- {'content-length': '51', 'content-type': 'text/html'} -+-+- No such target id: 0D77EED4BE99CD2935ADBBA136C7D297
+00:51:12  INFO      consent: clicked sign in
+00:51:14  INFO      OAuth callback URL reached: https://antigravity.google/auth-success?app=antigravity
+00:51:17  INFO    authentication succeeded
+00:51:17  INFO    closing the sign-in browser
+00:51:19  INFO      sign-in browser closed
+00:51:21  INFO      Antigravity is in the foreground (window 12582916)
+00:51:21  INFO    walking the setup wizard
+00:51:21  INFO      entering project ID qwiklabs-gcp-02-c3815fd3527c
+00:51:23  INFO      clicked 'Next'
+00:51:27  INFO      clicked 'Next'
+00:51:30  INFO      clicked 'Next'
+00:51:33  INFO      plugin: ok
+00:51:34  INFO      clicked 'Finish'
+00:51:37  INFO      wizard finished
+00:51:41  INFO    applying required settings
+00:51:43  INFO      Settings not opened yet (attempt 1); expanding sidebar if collapsed
+00:51:43  INFO      sidebar is already expanded
+00:51:47  INFO      clicked 'Agent'
+00:51:52  INFO      Security Preset -> Turbo mode
+00:51:55  INFO      Artifact Review Policy -> Always Proceed
+00:51:55  INFO      clicked 'App'
+00:51:57  INFO      Keep In Menu Bar: already-off
+00:52:00  INFO    adding /config/Desktop/Session1 as a project
+00:52:00  INFO      attempt 1/3 to add session project /config/Desktop/Session1
+00:52:00  INFO      sidebar is already expanded
+00:52:03  INFO      clicked dropdown item 'New Project'
+00:52:07  INFO      driving GTK folder dialog (window 14680077)
+00:52:11  INFO      GTK folder dialog closed successfully
+00:52:14  INFO      clicked 'Next'
+00:52:14  INFO      clicked post-picker button 'Next'
+00:52:22  INFO      project added successfully: Session1
+00:52:22  INFO    starting the first conversation
+00:52:58  INFO      no 'Start first conversation' card (already started or dismissed)
+00:52:58  INFO    setup complete (onboarding performed)
+00:53:00  INFO      Antigravity is in the foreground (window 12582916)

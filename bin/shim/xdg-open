@@ -1,0 +1,6 @@
+#!/bin/bash
+# PATH shim: capture URLs Antigravity asks the desktop to open, and route them
+# to the automation's dedicated browser instead of the user's default Chrome.
+printf '%s\n' "$1" >> "${AG_URL_CAPTURE:-/tmp/ag_opened_urls.txt}"
+if [ -n "$AG_URL_HANDLER" ]; then exec "$AG_URL_HANDLER" "$1"; fi
+exit 0
